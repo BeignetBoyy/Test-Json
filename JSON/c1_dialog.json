@@ -1,0 +1,32 @@
+{ 
+	"greeting":{
+		"text" : "Hello how are you doing !",
+		"answers" : [
+			"Good",
+			"Not bad what about you",
+			"I'm not well"
+		],
+		"response" : [
+			"A",
+			"B",
+			"C"
+		]
+	},
+	"A":{
+		"text" : "A",
+		"answers" : [
+			"Good",
+			"Not bad what about you",
+		],
+		"response" : [
+			"B",
+			"C"
+		]
+	},
+	"B":{
+		"text" : "B"
+	},
+	"C":{
+		"text" : "C"
+	}
+}
